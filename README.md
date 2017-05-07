@@ -1,7 +1,6 @@
-pumps
-==============================
+An example [cookiecutter data science](https://drivendata.github.io/cookiecutter-data-science/) project based on the [data science is software talk](https://github.com/drivendata/data-science-is-software) using data on [predicting water pumps](https://www.drivendata.org/competitions/).
 
-Predicting water pump failures.
+==============================
 
 Project Organization
 ------------

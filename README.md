@@ -2,6 +2,12 @@ An example [cookiecutter data science](https://drivendata.github.io/cookiecutter
 
 ==============================
 
+### The talk for this repository
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HM56wCNxCnQ/0.jpg)](https://www.youtube.com/watch?v=HM56wCNxCnQ)
+
+==============================
+
 Project Organization
 ------------
 
